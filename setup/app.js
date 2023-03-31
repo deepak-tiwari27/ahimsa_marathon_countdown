@@ -79,7 +79,7 @@ items.forEach((item,index)=>{
 })
 if(t<0){
   clearInterval(countdown)
-  deadline.innerHTML = `<h4 class= "expired"> sorry,this giveaway has expired</h4>`
+  deadline.innerHTML = `<h4 class= "expired"> We ran the Ahimsa marathon and enjoyed!</h4>`
 }
 }
 //cointdown 
